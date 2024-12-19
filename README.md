@@ -1,5 +1,5 @@
 # Sorting Visualizer
-
+https://sorting-algo-4a223a.netlify.app/
 
 A **Sorting Visualizer** is an interactive web application that demonstrates how various sorting algorithms work. Built using **HTML**, **CSS**, and **JavaScript**, this project provides a visual representation of popular sorting algorithms, making it easier to understand their behavior and efficiency.
 
